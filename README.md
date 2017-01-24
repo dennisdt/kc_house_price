@@ -1,0 +1,1 @@
+Predictions for King's County housing. Data and jupyter notebook files are included in the repo. 
